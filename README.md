@@ -37,11 +37,14 @@ credit-card-fraud-detection/
 
 ## 📷 Visualizations
 
-### ROC Curves  
-![ROC Curve](images/roc Curve.png)
+## Visualizations
 
-### Learning Curves  
-![results](images/results.png)
+### ROC Curves
+![ROC Curve](images/roc_curve.jpg)
+
+### Learning Curves
+![results](images/confusion_matrix.jpg)
+
 
 ## ⚙️ How to Run
 
