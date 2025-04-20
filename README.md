@@ -28,22 +28,11 @@ credit-card-fraud-detection/
 
 | Model                  | AUC Score (sample) |
 |------------------------|--------------------|
-| Logistic Regression    | 0.96               |
-| K-Nearest Neighbors    | 0.94               |
-| Support Vector Machine | 0.93               |
-| Decision Tree          | 0.90               |
+| Logistic Regression    | 0.94               |
+| K-Nearest Neighbors    | 0.87               |
+| Support Vector Machine | 0.87               |
+| Decision Tree          | 0.90              |
 
-> Note: Update the table with actual values from your notebook.
-
-## 📷 Visualizations
-
-## Visualizations
-
-### ROC Curves
-![ROC Curve](images/roc_curve.jpg)
-
-### Learning Curves
-![results](images/confusion_matrix.jpg)
 
 
 ## ⚙️ How to Run
